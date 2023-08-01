@@ -3,6 +3,9 @@ uuid = "dd57726b-2b50-4bdf-a3b0-28dd47b61508"
 authors = ["singularitti <singularitti@outlook.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+LibGit2 = "76f85450-5226-5b5a-8eaa-529ad045b433"
+
 [compat]
 julia = "1"
 
